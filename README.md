@@ -9,4 +9,4 @@ Weeds can cause a lot of damage to the agricultural industry and water control, 
 
 # Result :
 
-<img src = "test.png" width ="300" /> <img src = "test2.png" width ="300" />
+<img src = "test.png"  /> <img src = "test2.png"  />
