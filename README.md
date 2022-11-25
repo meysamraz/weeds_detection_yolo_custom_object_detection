@@ -12,7 +12,7 @@ Weeds can cause a lot of damage to the agricultural industry and water control, 
 <img src = "test.png"  /> <img src = "test2.png"  />
 
 
-##  Libraries used in the project
+##  Libraries used in the project : 
 
 - [matplotlib](https://matplotlib.org/)
 - [opencv](https://opencv.org/)
