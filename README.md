@@ -4,9 +4,9 @@ Weeds can cause a lot of damage to the agricultural industry and water control, 
 ![alt Text](https://github.com/meysamraz/weeds_detection_yolo_custom_object_detection/blob/master/weeds_detection_demo.gif)
 
 # Metrices :
-<img src = "F1_curve.png" width ="230" /> <img src = "PR_curve.png" width ="230" /> <img src = "PR_curve.png" width ="230" />  <img src = "confusion_matrix.png" width ="230" />
+<img src = "F1_curve.png" width ="300" /> <img src = "PR_curve.png" width ="300" /> <img src = "PR_curve.png" width ="300" />  <img src = "confusion_matrix.png" width ="300" />
 
 
 # Result :
 
-<img src = "test.png" width ="230" /> <img src = "test2.png" width ="230" />
+<img src = "test.png" width ="300" /> <img src = "test2.png" width ="300" />
